@@ -1,0 +1,34 @@
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#sampleData {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+}
+
+#sampleData td,
+#sampleData th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#sampleData tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#sampleData tr:hover {
+  background-color: #ddd;
+}
+
+#sampleData th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #5f788a;
+  color: white;
+}
