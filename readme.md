@@ -14,6 +14,7 @@ python3 run.py
 ## To Install all dependencies
 
 cd frontend
+
 npm install
 
 ## To run app
